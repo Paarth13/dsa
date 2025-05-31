@@ -1,0 +1,12 @@
+https://leetcode.com/problems/word-break/
+https://leetcode.com/problems/word-break-ii/
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
+https://leetcode.com/problems/koko-eating-bananas/
+https://leetcode.com/problems/split-array-largest-sum/
+
+It's a large playlist, so try to first view videos by the following people
+- Raymond Hettinger
+- David Beazley
+- James Powell
+- Grant Jenks

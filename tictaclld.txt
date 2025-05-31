@@ -1,0 +1,21 @@
+Tic Tac toe:
+size nxn
+number_of_players=2
+strat=>diag,col,row winner decided
+// Define entities ->Define attrinutes -> Define controlling flows 
+
+
+class Controller():
+    curr_player= 1
+    start_game(board_size,player_2,player_1)
+    move(row,col)
+    check_winner()
+
+class Board():
+    board : list of list()
+    player_1: Player
+    player_2: Player    
+
+class Player():
+    id:
+    name:
